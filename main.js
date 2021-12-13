@@ -40,3 +40,9 @@ const swiper = new Swiper('.swiper', {
   mousewheel: true,
   keyboard: true
 })
+
+
+/* Alterar o src de uma imagem */
+//var img = document.querySelector('#imgOption');
+//img.setAttribute('src','/assets/ImgWomanSmile.jpg');
+
